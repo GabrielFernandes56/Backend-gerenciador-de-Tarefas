@@ -22,7 +22,7 @@ Esta API foi desenvolvida para ser consumida por um **frontend web** que pode se
 
 Abaixo estão as principais tecnologias usadas para desenvolver esta API:
 
-- **Java 17** - A linguagem de programação escolhida para o desenvolvimento.
+- **Java 21** - A linguagem de programação escolhida para o desenvolvimento.
 - **Spring Boot 2.x** - Framework para criação de aplicações Java baseadas em Spring.
 - **Spring Data JPA** - Para realizar operações de persistência com o banco de dados.
 - **H2 Database** - Banco de dados em memória utilizado durante o desenvolvimento.
