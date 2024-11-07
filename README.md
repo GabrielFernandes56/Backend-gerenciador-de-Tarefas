@@ -29,8 +29,8 @@ Abaixo estão as principais tecnologias usadas para desenvolver esta API:
 - **Spring Web** - Para criação de endpoints RESTful e interação com o frontend.
 - **Maven** - Gerenciador de dependências e build do projeto.
 
-## Como Rodar a API
+- **Links Importantes**:
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/backend-tasks-api.git
+- Link do repositorio frontend : https://github.com/GabrielFernandes56/Frontend-gerenciador-de-tarefas
+
+
